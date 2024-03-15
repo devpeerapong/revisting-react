@@ -1,0 +1,21 @@
+{
+	"name": "revisiting-react",
+	"type": "module",
+	"private": true,
+	"scripts": {
+		"build": "slidev build",
+		"dev": "slidev --open",
+		"export": "slidev export"
+	},
+	"dependencies": {
+		"@slidev/cli": "0.48.1",
+		"@slidev/theme-default": "latest",
+		"@slidev/theme-seriph": "latest",
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0"
+	},
+	"devDependencies": {
+		"@types/react": "^18.2.64",
+		"@types/react-dom": "^18.2.21"
+	}
+}
